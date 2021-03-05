@@ -1,6 +1,6 @@
 {
   "name": "@test-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test-cli-dev core",
   "author": "R <rui.yang@data-whisper.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "new-testnew": "^1.0.0",
-    "@test-cli-dev/utils":"^1.0.0"
+    "@test-cli-dev/utils": "^1.0.1",
+    "new-testnew": "^1.0.0"
   }
 }

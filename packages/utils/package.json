@@ -1,6 +1,6 @@
 {
   "name": "@test-cli-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test-cli-dev utils",
   "author": "R <rui.yang@data-whisper.com>",
   "homepage": "",
@@ -19,7 +19,5 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "dependencies": {
   }
 }
