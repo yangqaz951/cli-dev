@@ -22,9 +22,5 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "dependencies": {
-    "@test-cli-dev/utils": "^1.0.1",
-    "new-testnew": "^1.0.0"
   }
 }
