@@ -1,0 +1,4 @@
+40 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin master
+40 error fatal: unable to access 'https://github.com/yangqaz951/cli-dev.git/': Operation timed out after 300025 milliseconds with 0 out of 0 bytes received
+40 error     at makeError (/Users/R 1/Documents/练习/架构师/cli-dev/dev/node_modules/execa/lib/error.js:59:11)
+40 error     at handlePromise (/Users/R 1/Documents/练习/架构师/cli-dev/dev/node_modules/execa/index.js:114:26)
