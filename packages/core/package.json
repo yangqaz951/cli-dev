@@ -1,12 +1,12 @@
 {
   "name": "@test-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test-cli-dev core",
   "author": "R <rui.yang@data-whisper.com>",
   "homepage": "",
   "license": "ISC",
-  "bin":{
-    "test-cli-dev":"bin/index.js"
+  "bin": {
+    "test-cli-dev": "bin/index.js"
   },
   "main": "lib/core.js",
   "directories": {
