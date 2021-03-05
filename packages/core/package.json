@@ -5,6 +5,9 @@
   "author": "R <rui.yang@data-whisper.com>",
   "homepage": "",
   "license": "ISC",
+  "bin":{
+    "test-cli-dev":"bin/index.js"
+  },
   "main": "lib/core.js",
   "directories": {
     "lib": "lib",
